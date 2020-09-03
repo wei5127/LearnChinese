@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618860559595",
+    "firebase_url": "https://learnchinese-218ac.firebaseio.com",
+    "project_id": "learnchinese-218ac",
+    "storage_bucket": "learnchinese-218ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618860559595:android:79ff14c4b0b63006da92ae",
+        "android_client_info": {
+          "package_name": "com.example.learnchinese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618860559595-tt6hu6ad6ev0l9tahqooorbaa0893o0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnchinese",
+            "certificate_hash": "f0f76220530fe344f02d63d44cd42df6bf1bbb0f"
+          }
+        },
+        {
+          "client_id": "618860559595-tkijrc4d2glg4q7oj5pra6jpa0i0ao6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gjp1xA1bQUy9F1JBQ_aeBnDCxkpj-Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618860559595-tkijrc4d2glg4q7oj5pra6jpa0i0ao6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
